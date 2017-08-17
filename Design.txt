@@ -1,3 +1,6 @@
+#Logo
+- Exibira a imagem da corporação desenvolvedora da página.
+
 #Menu
 - A Aba menu irá conter os nomes de cada pessoa do grupo, ao clicar sobre o nome de cada integrante a 
 
