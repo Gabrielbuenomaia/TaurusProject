@@ -1,0 +1,42 @@
+Nome_Grupo 
+Taurus
+
+Necessidade
+Desenvolver um site que contenha 7 jogos preferidos de cada membro do grupo.
+
+Regra
+Deve ter uma unica pagina e chamar index.html
+
+Quantidade_membros
+11
+
+Membros
+Ana Paula
+Isabela
+Igor
+Johnny
+Gabriel
+Gabriel P
+Andre
+João
+Leonardo
+Caio
+Carlos
+
+Jogos_por_membro
+Ana Paula (God of war, Darksiders, Crash, Street Fight, Mario World,Donkey Kong, Gear of War)
+Isabela (Pohemon Blue, Mario, Crash, Sonic, Donkey Kong, GTA, Alladin)
+Igor (World of Warcraft, Diablo III, Diablo II, Old Dragon, Call of Duty)
+Johnny (Mad Max, Shadow of Colossus, GTA, Battlefield 3, Batman, Assassins Creed, Streets Fighter )
+Gabriel (Bilhar, Poker, Tetris, Pitfool, Pes18, God of War, Streets Fighter)
+Gabriel P (God of War, Fifa, Naruto Ninja Storm, Sudoku, GTA, Sonic, Injustice)
+Andre (Max Paine 3, Formula 1, Uncharted 4, Battlefield, PES, GTA V, Call of Dutty )
+João (FIFA 2017, COD, GTA, Combat Arms, Battlefield, Poker Star, Super Mario World)
+Leonardo ( Mario, Destiny 2, Grand Turismo, Counter Strike, Need for Speed, PES, Minecraft)
+Caio (Injustice 2, Sonic Mania, Horizon Zero Dawn, Prey, For Honor, Niah, Halo Wars 2)
+Carlos (Farcry Primary, Fifa17, Assassins Creed, Resident Evil, Battlefied 1, The Phantom Pain, Gear of War
+
+
+**OK**
+
+FALTA DESIGN
