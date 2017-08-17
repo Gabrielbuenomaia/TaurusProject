@@ -1,2 +1,5 @@
 #Menu
 - A Aba menu irá conter os nomes de cada pessoa do grupo, ao clicar sobre o nome de cada integrante a 
+
+#Rodapé
+- O rodapé vai ser aproveitado para facilitar a navegação do usuário e auxiliar a alcançar os objetivos.
