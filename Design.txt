@@ -2,7 +2,6 @@
  - Exibira a imagem da corporação desenvolvedora da página.
  
   -#Menu
- - A Aba menu irá conter os nomes de cada pessoa do grupo, ao clicar sobre o nome de cada integrante a 
  -O menu irá conter os nomes de cada pessoa do grupo, ao clicar sobre o nome de cada integrante a página criará uma "ancora" ou um  -link até a região (<DIV>) onde contém as informações referentes aos jogos que cada um jogou.
  -O menu conterá onze opções.
   
