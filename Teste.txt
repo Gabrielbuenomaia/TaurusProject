@@ -39,4 +39,18 @@ Carlos (Farcry Primary, Fifa17, Assassins Creed, Resident Evil, Battlefied 1, Th
 
 **OK**
 
-FALTA DESIGN
+-#Logo
+ - Exibira a imagem da corporação desenvolvedora da página.
+ 
+  -#Menu
+ -O menu irá conter os nomes de cada pessoa do grupo, ao clicar sobre o nome de cada integrante a página criará uma "ancora" ou um  -link até a região (<DIV>) onde contém as informações referentes aos jogos que cada um jogou.
+ -O menu conterá onze opções.
+  
+ -#Rodapé
+ - O rodapé vai ser aproveitado para facilitar a navegação do usuário e auxiliar a alcançar os objetivos.
+ - Redes Sociais
+ - Informações de contato
+ 
+ #DIV
+ 
+ 
