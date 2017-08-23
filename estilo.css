@@ -1,0 +1,74 @@
+@charset "utf-8";
+
+/* formatçao do menu*/
+div#cabecalho {
+	border-bottom: 3px #606060 solid;
+}
+nav#menu {
+	display: block;
+}
+nav#menu ul {
+	list-style: none;
+	text-transform: uppercase;
+	position: absolute;
+	top: -20px;
+	left: 300px;
+}
+nav#menu li {
+	display: inline-block;
+	background-color: #dddddd;
+	padding: 10px;
+	margin: 2px;
+	transition: background-color 1s;
+}
+nav#menu li:hover {
+	background-color: #606060;
+}
+nav#menu h1 {
+	display: none;
+}
+nav#menu a {
+	color: #000000;
+	text-decoration: none;
+}
+nav#menu a:hover{
+	color: #ffffff;
+	text-decoration: underline;
+}
+nav#ana img {
+	max-width: 200px;
+}
+div#ana-paula {
+	border-bottom: 3px #000000 solid;
+}
+div#andre {
+	border-bottom: 3px #000000 solid;
+}
+div#caio {
+	border-bottom: 3px #000000 solid;
+}
+div#carlos {
+	border-bottom: 3px #000000 solid;
+}
+div#gabriel-b {
+	border-bottom: 3px #000000 solid;
+}
+div#gabriel-p {
+	border-bottom: 3px #000000 solid;
+}
+div#igor {
+	border-bottom: 3px #000000 solid;
+}
+div#isabela {
+	border-bottom: 3px #000000 solid;
+}
+div#johnny {
+	border-bottom: 3px #000000 solid;
+}
+div#joao {
+	border-bottom: 3px #000000 solid;
+}
+div#leonardo {
+	border-bottom: 3px #000000 solid;
+}
+
